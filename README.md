@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 
-Eu sou Daiane, tenho 28 anos e uma formação em Engenharia Elétrica. 
-Atualmente ensino programação e robótica para crianças e adolescentes; 
-Exerço essa função desde o final da graduação e isso me fez buscar cada vez mais conhecimento em tecnologia. 
+Eu sou Daiane, tenho 30 anos e uma formação em Engenharia Elétrica;
+Atualmente sou engenheira de dados júnior; 
+Sou professora de Python e SQL;
+Sempre gostei de programar e atualmente tenho me apaixonado cada vez mais pelo mundo dos dados
 Sou mãe de 3! <3 
 
 
