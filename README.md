@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 -->
 
 
-Eu sou Daiane, tenho 30 anos e uma formação em Engenharia Elétrica; \n
-Atualmente sou engenheira de dados júnior; \n
-Sou professora de Python e SQL;\n
-Sempre gostei de programar e atualmente tenho me apaixonado cada vez mais pelo mundo dos dados\n
-Sou mãe de 3! <3 \n
+Eu sou Daiane, tenho 30 anos e uma formação em Engenharia Elétrica;  
+
+Atualmente sou engenheira de dados júnior; 
+
+Sou professora de Python e SQL;
+
+Sempre gostei de programar e atualmente tenho me apaixonado cada vez mais pelo mundo dos dados
+
+Sou mãe de 3! <3
 
 
 <center>
